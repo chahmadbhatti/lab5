@@ -1,0 +1,15 @@
+D:\New folder\lab5_E1\lab5_E1\obj\Debug\net6.0\lab5_E1.csproj.AssemblyReference.cache
+D:\New folder\lab5_E1\lab5_E1\obj\Debug\net6.0\lab5_E1.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\lab5_E1\lab5_E1\obj\Debug\net6.0\lab5_E1.AssemblyInfoInputs.cache
+D:\New folder\lab5_E1\lab5_E1\obj\Debug\net6.0\lab5_E1.AssemblyInfo.cs
+D:\New folder\lab5_E1\lab5_E1\obj\Debug\net6.0\lab5_E1.csproj.CoreCompileInputs.cache
+D:\New folder\lab5_E1\lab5_E1\bin\Debug\net6.0\lab5_E1.exe
+D:\New folder\lab5_E1\lab5_E1\bin\Debug\net6.0\lab5_E1.deps.json
+D:\New folder\lab5_E1\lab5_E1\bin\Debug\net6.0\lab5_E1.runtimeconfig.json
+D:\New folder\lab5_E1\lab5_E1\bin\Debug\net6.0\lab5_E1.dll
+D:\New folder\lab5_E1\lab5_E1\bin\Debug\net6.0\lab5_E1.pdb
+D:\New folder\lab5_E1\lab5_E1\obj\Debug\net6.0\lab5_E1.dll
+D:\New folder\lab5_E1\lab5_E1\obj\Debug\net6.0\refint\lab5_E1.dll
+D:\New folder\lab5_E1\lab5_E1\obj\Debug\net6.0\lab5_E1.pdb
+D:\New folder\lab5_E1\lab5_E1\obj\Debug\net6.0\lab5_E1.genruntimeconfig.cache
+D:\New folder\lab5_E1\lab5_E1\obj\Debug\net6.0\ref\lab5_E1.dll
